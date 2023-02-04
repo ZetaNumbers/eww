@@ -51,7 +51,7 @@ simple-signal = "1.1"
 unescape = "0.1"
 unindent = "0.1"
 
-tokio = { version = "1.0", features = ["full"] }
+tokio = { version = "1.18", features = ["full"] }
 futures-core = "0.3"
 futures-util = "0.3"
 tokio-util = "0.6"
